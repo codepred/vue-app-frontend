@@ -36,6 +36,4 @@ const PLATFORM_THEME: ThemeTypes = {
     }
 };
 
-
-
 export { PLATFORM_THEME };
